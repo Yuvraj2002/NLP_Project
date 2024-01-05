@@ -1,4 +1,4 @@
-# NLP Project-
+# Amazon Reviews Sentiment Analysis NLP Project-
 
 ## Dataset-
 - Used ‘Amazon Customer Reviews’ Dataset which is a vast dataset containing key information about the product sold and the respective customer reviews.
